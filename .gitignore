@@ -1,0 +1,12 @@
+# ignore binaries
+bin
+
+# other folders
+target/
+
+# files to ignore
+*.jar
+*.class
+*.ear
+*.war
+*.~
